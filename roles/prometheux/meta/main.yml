@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  author: Lapshin Sergey <sergey@lapshin.pro>
+  description: Prometheus node_exporter
+  license: MIT
+  min_ansible_version: 2.1
+  platforms:
+  - name: EL
+    versions:
+    - 7
+  categories:
+  - networking
+  - web
+  - monitoring

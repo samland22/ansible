@@ -1,0 +1,8 @@
+---
+hosts:
+  hosts:
+    local:
+      ansibble_ssh_host: localhost
+  vars:
+    ansible_connection: local
+
