@@ -1,10 +1,10 @@
 ---
 galaxy_info:
   role_name: security
-  author: ricsanfre
+  author: Laureh
   description: Security hardening role
 
-  license: license (MIT)
+  license: license (Public)
 
   min_ansible_version: 2.11
 

@@ -3,10 +3,10 @@ dependencies: []
 
 galaxy_info:
   role_name: java
-  author: geerlingguy
+  author: Laureh
   description: Java for Linux
-  company: "Midwestern Mac, LLC"
-  license: "license (BSD, MIT)"
+  company: "DSG"
+  license: "license (Public)"
   min_ansible_version: 2.9
   platforms:
     - name: EL

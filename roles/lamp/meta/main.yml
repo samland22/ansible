@@ -1,7 +1,7 @@
 galaxy_info:
-  author: Francisco Manuel Varo Villodres
+  author: Laureh
   description: Install LAMP stack
-  license: BSD
+  license: (Public
   min_ansible_version: 2.2
   platforms:
     - name: Ubuntu
