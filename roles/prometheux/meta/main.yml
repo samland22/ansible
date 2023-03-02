@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  author: Lapshin Sergey <sergey@lapshin.pro>
+  author: Laureh
   description: Prometheus node_exporter
-  license: MIT
+  license: MPublic
   min_ansible_version: 2.1
   platforms:
   - name: EL

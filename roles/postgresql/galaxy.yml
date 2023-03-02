@@ -2,7 +2,7 @@ namespace: community
 name: postgresql
 version: 2.3.2
 readme: README.md
-authors:
+authors: Laureh
   - Ansible PostgreSQL community
 description: null
 license_file: COPYING

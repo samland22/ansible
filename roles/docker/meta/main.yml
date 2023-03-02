@@ -3,10 +3,10 @@ dependencies: []
 
 galaxy_info:
   role_name: docker
-  author: geerlingguy
+  author: Laureh
   description: Docker for Linux.
-  company: "Midwestern Mac, LLC"
-  license: "license (BSD, MIT)"
+  company: "DSG"
+  license: "license (Public)"
   min_ansible_version: 2.4
   platforms:
     - name: EL

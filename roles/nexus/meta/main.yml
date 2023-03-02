@@ -1,10 +1,10 @@
 ---
 galaxy_info:
-  author: ansible-ThoTeam
+  author: Laureh
   description: Nexus Repository Manager 3.x (Sonatype)
-  company: ThoTeam
+  company: "DSG"
 
-  license: license (GPLv3)
+  license: license (Public)
 
   min_ansible_version: 2.12.10
 
